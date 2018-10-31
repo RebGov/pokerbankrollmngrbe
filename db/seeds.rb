@@ -32,4 +32,4 @@ wpt = TournamentName.create(name: 'WPT')
 tentwenty = BlindsName.create(blinds: '10/20')
 twentyforty = BlindsName.create(blinds: '20/40')
 #game-played
-game1 = PlayedGame.create(user: becci, game_name: plo, game_location: bellagio, blinds_name: tentwenty, start_date_time: "2018-01-01 09:00:00", end_date_time: "2018-01-02 10:00:00", buy_in: 100, cash_out: 200, minutes: 60, won_game: true, tournament: false, tournament_name: wsop, tournament_placement: '3rd',  profit: 100, note: note1)
+game1 = PlayedGame.create(user: becci, game_name: plo, game_location: bellagio, blinds_name: tentwenty, start_date_time: "2018-01-01 09:00:00", end_date_time: "2018-01-02 10:00:00", buy_in: 100, cash_out: 200, minutes: 60, won_game: true, tournament: false, tournament_name: wsop, tournament_placement: '3rd', tournament_date: "2018-01-01",  profit: 100, note: note1)

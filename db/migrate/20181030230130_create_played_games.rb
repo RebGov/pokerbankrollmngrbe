@@ -11,6 +11,7 @@ class CreatePlayedGames < ActiveRecord::Migration[5.2]
       t.belongs_to :blinds_name, foreign_key: true
       t.boolean :tournament
       t.string :tournament_placement
+      t.datetime :tournament_date
       t.belongs_to :tournament_name, foreign_key: true
       t.belongs_to :note, foreign_key: true
       t.integer :profit
