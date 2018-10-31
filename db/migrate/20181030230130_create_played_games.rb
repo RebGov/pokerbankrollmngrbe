@@ -8,8 +8,8 @@ class CreatePlayedGames < ActiveRecord::Migration[5.2]
       t.integer :cash_out
       t.belongs_to :game_location, foreign_key: true
       t.belongs_to :game_name, foreign_key: true
-      t.belongs_to :blind_name, foreign_key: true
-      t.string :tournament
+      t.belongs_to :blinds_name, foreign_key: true
+      t.boolean :tournament
       t.string :tournament_placement
       t.belongs_to :tournament_name, foreign_key: true
       t.belongs_to :note, foreign_key: true

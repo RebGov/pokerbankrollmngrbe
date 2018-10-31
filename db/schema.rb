@@ -15,7 +15,7 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "blind_names", force: :cascade do |t|
+  create_table "blinds_names", force: :cascade do |t|
     t.string "blinds"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
@@ -47,8 +47,8 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
     t.integer "cash_out"
     t.bigint "game_location_id"
     t.bigint "game_name_id"
-    t.bigint "blind_name_id"
-    t.string "tournament"
+    t.bigint "blinds_name_id"
+    t.boolean "tournament"
     t.string "tournament_placement"
     t.bigint "tournament_name_id"
     t.bigint "note_id"
@@ -57,7 +57,7 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
     t.boolean "won_game"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["blind_name_id"], name: "index_played_games_on_blind_name_id"
+    t.index ["blinds_name_id"], name: "index_played_games_on_blinds_name_id"
     t.index ["game_location_id"], name: "index_played_games_on_game_location_id"
     t.index ["game_name_id"], name: "index_played_games_on_game_name_id"
     t.index ["note_id"], name: "index_played_games_on_note_id"
@@ -73,12 +73,15 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
 
   create_table "users", force: :cascade do |t|
     t.string "email"
-    t.string "password"
+    t.string "password_digest"
+    t.string "first_name"
+    t.string "last_name"
+    t.string "username"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
-  add_foreign_key "played_games", "blind_names"
+  add_foreign_key "played_games", "blinds_names"
   add_foreign_key "played_games", "game_locations"
   add_foreign_key "played_games", "game_names"
   add_foreign_key "played_games", "notes"
