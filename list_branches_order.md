@@ -1,9 +1,15 @@
 1) master
 *2) becciMaster - where all merges should go*
-2) beginSchema - first take models, controllers, serializer, schema, seeds #860161d
-3) beginSchema - 2 fixed schema and seeds added auth controllers #c495032
+2) beginSchema
+ - first take models, controllers, serializer, schema, seeds #860161d
+3) beginSchema
+ - 2 fixed schema and seeds added auth controllers #c495032
+ [✓]merged to becciMaster
 4) authorizationStart
  - added tournament_date; drop, create, migrate, reseed
+ - initial postman able to create user
+5) authorizationStart:
+ -
 
 
 --------NOTES -------------

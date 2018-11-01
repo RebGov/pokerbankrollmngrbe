@@ -1,3 +1,3 @@
 class GameLocationSerializer < ActiveModel::Serializer
-  attributes :id, :place
+ attributes :id, :place
 end
