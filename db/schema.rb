@@ -50,6 +50,7 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
     t.bigint "blinds_name_id"
     t.boolean "tournament"
     t.string "tournament_placement"
+    t.datetime "tournament_date"
     t.bigint "tournament_name_id"
     t.bigint "note_id"
     t.integer "profit"
