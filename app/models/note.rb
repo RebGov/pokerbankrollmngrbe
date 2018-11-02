@@ -1,4 +1,3 @@
 class Note < ApplicationRecord
-  has_many :played_games
-  
+  belongs_to :played_game
 end

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_10_30_230130) do
+ActiveRecord::Schema.define(version: 2018_11_01_233153) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -34,9 +34,11 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
   end
 
   create_table "notes", force: :cascade do |t|
-    t.string "note_content"
+    t.string "note"
+    t.bigint "played_game_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["played_game_id"], name: "index_notes_on_played_game_id"
   end
 
   create_table "played_games", force: :cascade do |t|
@@ -51,8 +53,7 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
     t.boolean "tournament"
     t.string "tournament_placement"
     t.datetime "tournament_date"
-    t.bigint "tournament_name_id"
-    t.bigint "note_id"
+    t.string "tournament_name"
     t.integer "profit"
     t.integer "minutes"
     t.boolean "won_game"
@@ -61,15 +62,7 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
     t.index ["blinds_name_id"], name: "index_played_games_on_blinds_name_id"
     t.index ["game_location_id"], name: "index_played_games_on_game_location_id"
     t.index ["game_name_id"], name: "index_played_games_on_game_name_id"
-    t.index ["note_id"], name: "index_played_games_on_note_id"
-    t.index ["tournament_name_id"], name: "index_played_games_on_tournament_name_id"
     t.index ["user_id"], name: "index_played_games_on_user_id"
-  end
-
-  create_table "tournament_names", force: :cascade do |t|
-    t.string "name"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
   end
 
   create_table "users", force: :cascade do |t|
@@ -78,6 +71,7 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
     t.string "first_name"
     t.string "last_name"
     t.string "username"
+    t.boolean "read_and_accepted_terms_of_service"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -85,7 +79,5 @@ ActiveRecord::Schema.define(version: 2018_10_30_230130) do
   add_foreign_key "played_games", "blinds_names"
   add_foreign_key "played_games", "game_locations"
   add_foreign_key "played_games", "game_names"
-  add_foreign_key "played_games", "notes"
-  add_foreign_key "played_games", "tournament_names"
   add_foreign_key "played_games", "users"
 end

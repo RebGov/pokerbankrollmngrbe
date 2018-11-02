@@ -9,24 +9,25 @@ class Api::V1::UsersController < ApplicationController
     if user.valid?
     exp = Time.now.to_i + 24 * 3600
     render json: {
-      user: UserSerializer.new(user),
+      user: user,
       token: encode_token({
         user_id: user.id,
         exp: exp
         })
      }
     else
-      render json: { error: 'Email already taken. Please login if you already have an account or check your email.' }
+      render json: { error: user.errors }
+      # user.errors
     end
   end
 
   def profile
-    render json: current_user
+    render json: current_user, include: { played_games: { include: [ :game_location, notes:[], :blinds_name, :tournament_name, :game_name ]}}
   end
 
   private
   def user_params
-    params.permit(:id, :email, :password, :first_name, :last_name, :username)
+    params.permit(:id, :email, :password, :first_name, :last_name, :username, notes:[])
   end
 
 end

@@ -9,7 +9,8 @@
  - added tournament_date; drop, create, migrate, reseed
  - initial postman able to create user
 5) authorizationStart:
- -
+ - routes work users -create, login, and profile
+ - routes gameName blindsName notes tournamentName
 
 
 --------NOTES -------------
