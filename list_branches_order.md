@@ -11,6 +11,9 @@
 5) authorizationStart:
  - routes work users -create, login, and profile
  - routes gameName blindsName notes tournamentName
+ 6) authorizationStart fa0dc35
+ - fix issues with models and foreign-keys reseed
+ 7) 
 
 
 --------NOTES -------------
