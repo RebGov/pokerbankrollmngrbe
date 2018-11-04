@@ -10,7 +10,7 @@ class Api::V1::UsersController < ApplicationController
     exp = Time.now.to_i + 24 * 3600
     render json: {
       user: user,
-      token: encode_token({
+      jwt: encode_token({
         user_id: user.id,
         exp: exp
         })

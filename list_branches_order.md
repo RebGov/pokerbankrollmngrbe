@@ -13,7 +13,10 @@
  - routes gameName blindsName notes tournamentName
  6) authorizationStart fa0dc35
  - fix issues with models and foreign-keys reseed
- 7) 
+ 7) authorizationStart
+ - rails db:drop and create, migrate, seed numbers start at 1 again.
+
+ - add list_branches_order to .gitignore file
 
 
 --------NOTES -------------
