@@ -2,7 +2,8 @@ class Api::V1::AuthController < ApplicationController
   skip_before_action :check_authentication, only: [:create]
 
   def create
-    user = User.find_by(email: params[:email]) || User.find_by(username: params[:username])
+    user = User.find_by(email: params[:email])
+    # || User.find_by(username: params[:username])
     if user && user.authenticate(params[:password])
       exp = Time.now.to_i + 24 * 3600
       render json: {
@@ -14,7 +15,7 @@ class Api::V1::AuthController < ApplicationController
       }
     else
       render json: {
-        error: "Email or Username and Password are incorrect"
+        error: "Email or Password are incorrect"
       }
     end
   end

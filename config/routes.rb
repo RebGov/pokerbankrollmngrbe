@@ -12,9 +12,9 @@ Rails.application.routes.draw do
       resources :game_locations
         post '/game_location/new', to: 'game_locations#create'
         get '/game_locations', to: 'game_locations#index'
-      # resources :notes
-      #   post '/note/new', to: 'notes#create'
-      #   get '/notes', to: 'notes#index'
+      resources :notes
+        post '/note/new', to: 'notes#create'
+        get '/notes', to: 'notes#index'
       resources :game_names
         post '/game_name/new', to: 'game_names#create'
         get '/game_names', to: 'game_names#index'
