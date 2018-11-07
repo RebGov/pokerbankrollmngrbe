@@ -10,7 +10,7 @@ class Api::V1::UsersController < ApplicationController
     exp = Time.now.to_i + 24 * 3600
     render json: {
       user: user,
-      token: encode_token({
+      jwt: encode_token({
         user_id: user.id,
         exp: exp
         })
@@ -22,7 +22,7 @@ class Api::V1::UsersController < ApplicationController
   end
 
   def profile
-    render json: current_user, include: { played_games: { include: [ :game_location, notes:[], :blinds_name, :tournament_name, :game_name ]}}
+    render json: current_user, include: { played_games: { include: [ :game_location, :notes, :blinds_name, :game_name ]}}
   end
 
   private
