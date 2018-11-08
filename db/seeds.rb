@@ -13,7 +13,7 @@ User.destroy_all
 
 
 #user
-becci = User.create(email: 'becci.govert@gmail.com', password: 'becci123', first_name: 'Becci', last_name: 'Govert', username: 'becgov')
+becci = User.create(email: '1@example.com', password: '123456', first_name: 'Becci', last_name: 'Govert', username: '1')
 jennifer = User.create(email: 'jennifer@email.com', password: 'jennifer123', first_name: 'Jennifer', last_name: 'Bartlet', username: 'jenbart' )
 #game-name
 omaha08 = GameName.create(game_title: 'Omaha08')

@@ -6,12 +6,18 @@ class PlayedGame < ApplicationRecord
   # belongs_to :tournament_name
   has_many :notes
 
+  accepts_nested_attributes_for :game_name
+  accepts_nested_attributes_for :blinds_name
+  accepts_nested_attributes_for :game_location
+  # accepts_nested_attributes_for :touranment_name
+
   validates :buy_in, presence: true
   validates :cash_out, presence: true
   validates :game_name, presence: true
   validates :won_game, presence: true
   validates :game_location, presence: true
-  validates :profit, presence: true  # validates :note_content, presence: false
+  validates :profit, presence: true
+  # validates :note_content, presence: false
   # validates :tournament, presence
 
   #cash-game only
@@ -19,7 +25,6 @@ class PlayedGame < ApplicationRecord
   validates :end_date_time, presence: true
   validates :blinds_name_id, presence: true
   validates :minutes, presence: true
-
 
   #tournament-game only (stretch goal)
   validates :tournament_placement, presence: false, on: :create

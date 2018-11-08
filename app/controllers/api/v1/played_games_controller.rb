@@ -25,6 +25,6 @@ class Api::V1::PlayedGamesController < ApplicationController
   private
 
   def played_games_params
-    params.permit(:id, :user_id, :start_date_time, :end_date_time, :buy_in, :cash_out, :game_location_id, :game_name_id, :blinds_name_id, :tournament, :notes_id, :profit, :minutes, :won_game)
+    params.permit(:id, :user_id, :start_date_time, :end_date_time, :buy_in, :cash_out, :game_location_id, :game_name_id, :blinds_name_id, :tournament, :notes_id, :profit, :minutes, :won_game, game_name_attributes: [ :game_title ], game_blinds_attriubutes: [:blinds], game_location_attributes: [:place] )
   end
 end
