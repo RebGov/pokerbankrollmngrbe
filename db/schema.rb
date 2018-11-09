@@ -42,8 +42,8 @@ ActiveRecord::Schema.define(version: 2018_11_01_233153) do
     t.integer "user_id"
     t.datetime "start_date_time"
     t.datetime "end_date_time"
-    t.integer "buy_in"
-    t.integer "cash_out"
+    t.decimal "buy_in", precision: 15, scale: 2
+    t.decimal "cash_out", precision: 15, scale: 2
     t.integer "game_location_id"
     t.integer "game_name_id"
     t.integer "blinds_name_id"
@@ -51,7 +51,7 @@ ActiveRecord::Schema.define(version: 2018_11_01_233153) do
     t.string "tournament_placement"
     t.datetime "tournament_date"
     t.string "tournament_name"
-    t.integer "profit"
+    t.decimal "profit", precision: 15, scale: 2
     t.integer "minutes"
     t.boolean "won_game"
     t.datetime "created_at", null: false

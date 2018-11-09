@@ -11,10 +11,16 @@ class PlayedGame < ApplicationRecord
   accepts_nested_attributes_for :game_location
   # accepts_nested_attributes_for :touranment_name
 
+  before_validation do |game|
+    game.minutes = (end_date_time - start_date_time) / 60
+    game.profit = game.cash_out - game.buy_in
+    game.won_game = game.profit >= game.buy_in ? true : false
+  end
+
+
   validates :buy_in, presence: true
   validates :cash_out, presence: true
   validates :game_name, presence: true
-  validates :won_game, presence: true
   validates :game_location, presence: true
   validates :profit, presence: true
   # validates :note_content, presence: false
