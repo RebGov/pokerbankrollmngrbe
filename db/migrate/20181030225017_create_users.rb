@@ -8,7 +8,6 @@ class CreateUsers < ActiveRecord::Migration[5.2]
       t.string :username
       t.boolean :read_and_accepted_terms_of_service
 
-
       t.timestamps
     end
   end
