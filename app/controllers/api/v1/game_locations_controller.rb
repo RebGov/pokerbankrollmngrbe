@@ -23,6 +23,6 @@ class Api::V1::GameLocationsController < ApplicationController
   private
 
   def game_location_params
-    params.permit(:id, :place)
+    params.permit(:id, :poker_room)
   end
 end

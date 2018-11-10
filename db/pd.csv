@@ -1,0 +1,376 @@
+Game,buy_in,cash_out,profit,start_date_time,end_date_time,game_location,time_paused,tournament,Blinds,participants,end_position,notes,Original Order,game_name,blinds_name,kill_status
+Omaha 8,$ 1000.00,$ 400.00,$ -600.00,Thu Aug 08 23:30:00 CDT 2013,Thu Aug 08 05:31:00 CDT 2013,Borgata,-,cashgame,10 20,-,-,,1,Omaha 8,10/20,none
+Borgata 20 40,$ 1000.00,$ 2100.00,$ 1100.00,Fri Aug 09 22:30:00 CDT 2013,Sat Aug 10 05:31:00 CDT 2013,Borgata,-,cashgame,20/40,-,-,,2,Limit Holdem,20/40,none
+Borgata 20 40,$ 1000.00,$ 1362.00,$ 362.00,Sat Aug 10 23:14:00 CDT 2013,Sun Aug 11 05:15:00 CDT 2013,Borgata,-,cashgame,20/40,-,-,,3,Limit Holdem,20/40,none
+Borgata 20 40,$ 1000.00,$ 2352.00,$ 1352.00,Sun Aug 11 22:15:00 CDT 2013,Mon Aug 12 05:30:00 CDT 2013,Borgata,-,cashgame,20/40,-,-,,4,Limit Holdem,20/40,none
+Borgata 20 40,$ 1000.00,$ 1192.00,$ 192.00,Mon Aug 12 18:30:00 CDT 2013,Mon Aug 12 21:31:00 CDT 2013,Borgata,-,cashgame,20/40,-,-,,5,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1753.00,$ 753.00,Mon Aug 19 22:00:00 CDT 2013,Tue Aug 20 00:30:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,6,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3500.00,$ 1500.00,Tue Aug 20 17:30:00 CDT 2013,Wed Aug 21 00:00:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,7,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2805.00,$ 1805.00,Wed Aug 21 17:00:00 CDT 2013,Wed Aug 21 19:30:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,8,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1903.00,$ 903.00,Thu Aug 22 17:54:00 CDT 2013,Thu Aug 22 23:58:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,9,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2333.00,$ 1333.00,Fri Aug 23 18:00:00 CDT 2013,Sat Aug 24 02:30:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,10,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3900.00,$ 485.00,$ -3415.00,Sat Aug 24 18:30:00 CDT 2013,Mon Aug 26 03:31:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,11,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2812.00,$ 1312.00,Mon Aug 26 22:00:00 CDT 2013,Tue Aug 27 02:30:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,12,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2705.00,$ 1705.00,Tue Aug 27 20:29:00 CDT 2013,Wed Aug 28 01:30:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,13,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2735.00,$ 1735.00,Wed Aug 28 18:25:00 CDT 2013,Wed Aug 28 22:26:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,14,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2385.00,$ 1385.00,Mon Sep 09 20:31:00 CDT 2013,Tue Sep 10 01:32:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,15,Limit Holdem,20/40,none
+Bellagio 20 40,$ 500.00,$ 733.00,$ 233.00,Tue Sep 10 17:30:00 CDT 2013,Tue Sep 10 19:00:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,16,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 900.00,$ -2100.00,Tue Sep 10 21:34:00 CDT 2013,Wed Sep 11 08:30:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,17,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1329.00,$ 329.00,Wed Sep 11 20:34:00 CDT 2013,Thu Sep 12 07:35:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,18,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3215.00,$ 1715.00,Thu Sep 12 18:06:00 CDT 2013,Fri Sep 13 05:07:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,19,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 295.00,$ -705.00,Fri Sep 13 18:32:00 CDT 2013,Sat Sep 14 09:33:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,20,Limit Holdem,20/40,none
+Texas Holdem,$ 3500.00,$ 2769.00,$ -731.00,Sat Sep 14 20:40:00 CDT 2013,Sun Sep 15 07:41:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,21,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 4211.00,$ 2711.00,Sun Sep 15 16:08:00 CDT 2013,Mon Sep 16 02:08:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,22,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2788.00,$ 1288.00,Mon Sep 16 17:30:00 CDT 2013,Mon Sep 16 20:43:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,23,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3176.00,$ 1176.00,Wed Sep 18 00:42:00 CDT 2013,Wed Sep 18 19:42:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,24,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2450.00,$ 1450.00,Thu Sep 19 14:16:00 CDT 2013,Thu Sep 19 17:17:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,25,Limit Holdem,20/40,none
+Borgata 20 40,$ 2000.00,$ 2006.00,$ 6.00,Wed Sep 25 20:17:00 CDT 2013,Thu Sep 26 02:00:00 CDT 2013,Borgata,-,cashgame,20/40,-,-,,26,Limit Holdem,20/40,none
+Borgata 20 40,$ 3000.00,$ 3240.00,$ 240.00,Thu Sep 26 16:51:00 CDT 2013,Fri Sep 27 05:52:00 CDT 2013,Borgata,-,cashgame,20/40,-,-,,27,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2133.00,$ 633.00,Wed Oct 02 17:34:00 CDT 2013,Thu Oct 03 02:35:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,28,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2363.00,$ 1363.00,Thu Oct 03 16:21:00 CDT 2013,Thu Oct 03 23:22:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,29,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1834.00,$ 834.00,Fri Oct 04 16:30:00 CDT 2013,Fri Oct 04 18:00:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,30,Limit Holdem,20/40,none
+Texas Holdem,$ 1000.00,$ 2048.00,$ 1048.00,Fri Oct 04 22:00:00 CDT 2013,Sat Oct 05 00:36:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,31,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1437.00,$ 437.00,Sat Oct 05 16:03:00 CDT 2013,Sun Oct 06 08:04:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,32,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2026.00,$ 1026.00,Sun Oct 06 16:38:00 CDT 2013,Sun Oct 06 16:39:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,33,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 1748.00,$ -1252.00,Sun Oct 06 23:33:00 CDT 2013,Mon Oct 07 06:34:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,34,Limit Holdem,20/40,none
+Bellagio 20 40,$ 800.00,$ 2055.00,$ 1255.00,Mon Oct 07 17:32:00 CDT 2013,Tue Oct 08 03:32:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,35,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2500.00,$ 3727.00,$ 1227.00,Tue Oct 08 17:34:00 CDT 2013,Wed Oct 09 01:35:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,36,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1692.00,$ 692.00,Wed Oct 09 20:35:00 CDT 2013,Thu Oct 10 04:36:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,37,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1200.00,$ 4.00,$ -1196.00,Mon Oct 28 23:10:00 CDT 2013,Tue Oct 29 06:11:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,38,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 3035.00,$ 2035.00,Tue Oct 29 20:06:00 CDT 2013,Wed Oct 30 04:07:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,39,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2520.00,$ 1520.00,Wed Oct 30 17:00:00 CDT 2013,Thu Oct 31 00:00:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,40,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 0.00,$ -3000.00,Thu Oct 31 18:28:00 CDT 2013,Fri Nov 01 07:29:00 CDT 2013,Bellagio,-,cashgame,20/40,-,-,,41,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2952.00,$ 1952.00,Mon Nov 04 17:17:00 CST 2013,Mon Nov 04 22:18:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,42,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2353.00,$ 1353.00,Tue Nov 05 18:30:00 CST 2013,Wed Nov 06 00:50:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,43,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2202.00,$ 1202.00,Wed Nov 06 17:34:00 CST 2013,Wed Nov 06 21:35:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,44,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2581.00,$ 1581.00,Thu Nov 07 17:00:00 CST 2013,Thu Nov 07 22:20:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,45,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1903.00,$ 903.00,Mon Nov 18 21:03:00 CST 2013,Mon Nov 18 23:04:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,46,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1962.00,$ 962.00,Tue Nov 19 16:32:00 CST 2013,Wed Nov 20 03:33:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,47,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3500.00,$ 0.00,$ -3500.00,Wed Nov 20 16:31:00 CST 2013,Thu Nov 21 04:32:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,48,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 3513.00,$ 2513.00,Thu Nov 21 16:36:00 CST 2013,Fri Nov 22 02:30:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,49,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1514.00,$ 514.00,Fri Nov 22 18:09:00 CST 2013,Sat Nov 23 07:10:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,50,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 3407.00,$ 2407.00,Sat Nov 23 18:01:00 CST 2013,Sun Nov 24 02:02:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,51,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3666.00,$ 1666.00,Sun Nov 24 14:35:00 CST 2013,Mon Nov 25 02:36:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,52,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 810.00,$ -190.00,Mon Nov 25 16:33:00 CST 2013,Mon Nov 25 21:34:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,53,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 2122.00,$ 122.00,Tue Nov 26 02:32:00 CST 2013,Tue Nov 26 08:33:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,54,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1782.00,$ 782.00,Tue Nov 26 22:18:00 CST 2013,Wed Nov 27 08:18:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,55,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1461.00,$ 461.00,Wed Nov 27 22:45:00 CST 2013,Thu Nov 28 01:46:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,56,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1880.00,$ 880.00,Mon Dec 02 23:00:00 CST 2013,Mon Dec 02 23:55:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,57,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2800.00,$ 731.00,$ -2069.00,Tue Dec 03 19:53:00 CST 2013,Wed Dec 04 03:54:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,58,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 453.00,$ -547.00,Wed Dec 04 19:02:00 CST 2013,Thu Dec 05 08:02:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,59,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2403.00,$ 1403.00,Mon Dec 09 20:26:00 CST 2013,Tue Dec 10 01:27:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,60,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2669.00,$ 1669.00,Tue Dec 10 19:57:00 CST 2013,Wed Dec 11 01:58:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,61,Limit Holdem,20/40,none
+Bellagio 20 40,$ 4500.00,$ 1026.00,$ -3474.00,Thu Dec 12 16:58:00 CST 2013,Fri Dec 13 07:59:00 CST 2013,Bellagio,-,cashgame,20/40,-,-,,62,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2111.00,$ 1111.00,Tue Jan 21 15:40:00 CST 2014,Tue Jan 21 21:01:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,63,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2737.00,$ 1737.00,Wed Jan 22 15:06:00 CST 2014,Thu Jan 23 03:07:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,64,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1751.00,$ 751.00,Thu Jan 23 19:00:00 CST 2014,Fri Jan 24 01:36:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,65,Limit Holdem,20/40,none
+Texas Holdem,$ 2000.00,$ 1170.00,$ -830.00,Thu Jan 30 19:34:00 CST 2014,Fri Jan 31 00:35:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,66,Limit Holdem,20/40,none
+tunica 20 40,$ 2000.00,$ 3288.00,$ 1288.00,Fri Jan 31 11:26:00 CST 2014,Fri Jan 31 23:55:00 CST 2014,"Horseshoe, Tunica",-,cashgame,20/40,-,-,,67,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2853.00,$ 1353.00,Mon Feb 10 23:00:00 CST 2014,Tue Feb 11 00:30:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,68,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2109.00,$ 1109.00,Tue Feb 11 17:00:00 CST 2014,Tue Feb 11 20:50:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,69,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1440.00,$ 440.00,Wed Feb 12 17:00:00 CST 2014,Thu Feb 13 04:30:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,70,Limit Holdem,20/40,none
+Bellagio 20 40,$ 6000.00,$ 2064.00,$ -3936.00,Thu Feb 13 16:08:00 CST 2014,Fri Feb 14 08:08:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,71,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1481.00,$ 481.00,Mon Feb 17 20:10:00 CST 2014,Tue Feb 18 01:30:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,72,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2900.00,$ 0.00,$ -2900.00,Tue Feb 18 17:14:00 CST 2014,Wed Feb 19 12:15:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,73,Limit Holdem,20/40,none
+Omaha 8,$ 3000.00,$ 4155.00,$ 1155.00,Thu Feb 20 18:02:00 CST 2014,Fri Feb 21 06:03:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,74,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 2076.00,$ 1076.00,Mon Feb 24 20:37:00 CST 2014,Tue Feb 25 04:37:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,75,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 200.00,$ -800.00,Tue Feb 25 20:55:00 CST 2014,Wed Feb 26 04:55:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,76,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1900.00,$ 900.00,Thu Feb 27 01:30:00 CST 2014,Thu Feb 27 02:50:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,77,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1710.00,$ 710.00,Sun Mar 02 11:01:00 CST 2014,Sun Mar 02 13:02:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,78,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 4058.00,$ 2058.00,Sun Mar 02 21:02:00 CST 2014,Mon Mar 03 00:03:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,79,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2116.00,$ 1116.00,Mon Mar 03 18:02:00 CST 2014,Tue Mar 04 00:03:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,80,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2600.00,$ 1600.00,Tue Mar 04 20:01:00 CST 2014,Wed Mar 05 01:02:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,81,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1459.00,$ 459.00,Wed Mar 05 17:02:00 CST 2014,Wed Mar 05 23:03:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,82,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1643.00,$ 643.00,Wed Mar 19 19:04:00 CDT 2014,Thu Mar 20 01:04:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,83,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2055.00,$ 1055.00,Thu Mar 20 17:33:00 CDT 2014,Fri Mar 21 02:33:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,84,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3338.00,$ 338.00,Fri Mar 21 17:59:00 CDT 2014,Sat Mar 22 05:59:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,85,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3262.00,$ 1262.00,Sat Mar 22 16:36:00 CDT 2014,Sun Mar 23 03:36:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,86,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 0.00,$ -2000.00,Sun Mar 23 17:56:00 CDT 2014,Mon Mar 24 08:56:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,87,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2017.00,$ 1017.00,Mon Mar 24 20:05:00 CDT 2014,Tue Mar 25 02:05:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,88,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2500.00,$ 2863.00,$ 363.00,Tue Mar 25 20:12:00 CDT 2014,Wed Mar 26 06:08:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,89,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1252.00,$ 252.00,Wed Mar 26 16:19:00 CDT 2014,Wed Mar 26 17:19:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,90,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2962.00,$ 1962.00,Tue Apr 01 17:30:00 CDT 2014,Wed Apr 02 00:30:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,91,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1750.00,$ 750.00,Wed Apr 02 18:35:00 CDT 2014,Thu Apr 03 01:35:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,92,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1600.00,$ 600.00,Thu Apr 03 16:30:00 CDT 2014,Thu Apr 03 17:00:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,93,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 800.00,$ -1200.00,Mon Apr 07 22:30:00 CDT 2014,Tue Apr 08 04:30:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,94,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 600.00,$ -400.00,Tue Apr 08 16:45:00 CDT 2014,Wed Apr 09 03:45:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,95,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3764.00,$ 2264.00,Wed Apr 09 17:07:00 CDT 2014,Thu Apr 10 02:06:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,96,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 4434.00,$ 3434.00,Thu Apr 10 17:00:00 CDT 2014,Fri Apr 11 00:00:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,97,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2127.00,$ 1127.00,Mon Apr 21 21:00:00 CDT 2014,Tue Apr 22 01:30:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,98,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3500.00,$ 3251.00,$ -249.00,Tue Apr 22 19:04:00 CDT 2014,Wed Apr 23 07:04:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,99,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 700.00,$ -2300.00,Wed Apr 23 19:35:00 CDT 2014,Thu Apr 24 23:35:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,100,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1780.00,$ 780.00,Fri Apr 25 21:37:00 CDT 2014,Sat Apr 26 07:37:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,101,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3021.00,$ 1021.00,Sat Apr 26 21:00:00 CDT 2014,Sun Apr 27 06:00:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,102,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 200.00,$ -1300.00,Sun Apr 27 19:33:00 CDT 2014,Mon Apr 28 07:33:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,103,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 1000.00,$ -2000.00,Mon Apr 28 19:34:00 CDT 2014,Tue Apr 29 07:34:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,104,Limit Holdem,20/40,none
+Borgata 20 40,$ 500.00,$ 800.00,$ 300.00,Wed May 28 17:30:00 CDT 2014,Wed May 28 19:00:00 CDT 2014,Borgata,-,cashgame,20/40,-,-,,105,Limit Holdem,20/40,none
+Omaha 8,$ 500.00,$ 1660.00,$ 1160.00,Thu May 29 14:00:00 CDT 2014,Fri May 30 00:00:00 CDT 2014,Borgata,-,cashgame,10 20,-,-,,106,Omaha 8,10/20,none
+Bellagio 20 40,$ 1000.00,$ 1133.00,$ 133.00,Tue Jun 03 00:17:00 CDT 2014,Tue Jun 03 04:17:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,107,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1563.00,$ 563.00,Tue Jun 03 17:36:00 CDT 2014,Wed Jun 04 01:36:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,108,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1547.00,$ 547.00,Wed Jun 04 18:10:00 CDT 2014,Thu Jun 05 08:10:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,109,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2729.00,$ 1729.00,Thu Jun 05 18:55:00 CDT 2014,Thu Jun 05 21:55:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,110,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1483.00,$ 483.00,Fri Jun 06 15:57:00 CDT 2014,Fri Jun 06 20:57:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,111,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3500.00,$ 2000.00,Sat Jun 07 14:57:00 CDT 2014,Sat Jun 07 18:57:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,112,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 775.00,$ -225.00,Sun Jun 08 00:32:00 CDT 2014,Sun Jun 08 12:32:00 CDT 2014,Rio,-,cashgame,20/40,-,-,,113,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2762.00,$ 1262.00,Sun Jun 08 19:51:00 CDT 2014,Mon Jun 09 01:51:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,114,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2932.00,$ 1432.00,Mon Jun 09 16:46:00 CDT 2014,Mon Jun 09 21:46:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,115,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 250.00,$ -750.00,Tue Jun 10 01:02:00 CDT 2014,Tue Jun 10 06:02:00 CDT 2014,Rio,-,cashgame,20/40,-,-,,116,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 1650.00,$ 650.00,Tue Jun 10 16:23:00 CDT 2014,Tue Jun 10 18:23:00 CDT 2014,Rio,-,cashgame,20/40,-,-,,117,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 2239.00,$ 1239.00,Wed Jun 11 01:00:00 CDT 2014,Wed Jun 11 05:00:00 CDT 2014,Rio,-,cashgame,20/40,-,-,,118,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1575.00,$ 575.00,Wed Jun 11 15:35:00 CDT 2014,Wed Jun 11 18:35:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,119,Limit Holdem,20/40,none
+Omaha 8,$ 2000.00,$ 665.00,$ -1335.00,Wed Jun 11 23:03:00 CDT 2014,Thu Jun 12 08:03:00 CDT 2014,Rio,-,cashgame,20/40,-,-,,120,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2186.00,$ 686.00,Thu Jun 12 22:41:00 CDT 2014,Fri Jun 13 05:41:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,121,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2605.00,$ 1105.00,Mon Jun 16 22:02:00 CDT 2014,Tue Jun 17 02:02:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,122,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1077.00,$ 77.00,Tue Jun 17 19:03:00 CDT 2014,Wed Jun 18 07:03:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,123,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2339.00,$ 1339.00,Wed Jun 18 17:30:00 CDT 2014,Wed Jun 18 18:49:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,124,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2893.00,$ 1893.00,Thu Jun 19 19:00:00 CDT 2014,Thu Jun 19 23:15:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,125,Limit Holdem,20/40,none
+Bellagio 20 40,$ 4000.00,$ 867.00,$ -3133.00,Fri Jun 20 23:02:00 CDT 2014,Sat Jun 21 09:02:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,126,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 4005.00,$ 2505.00,Sat Jun 21 21:07:00 CDT 2014,Sun Jun 22 05:07:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,127,Limit Holdem,20/40,none
+Bellagio 20 40,$ 4500.00,$ 1571.00,$ -2929.00,Sun Jun 22 17:02:00 CDT 2014,Mon Jun 23 08:02:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,128,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1974.00,$ 974.00,Mon Jun 23 20:18:00 CDT 2014,Tue Jun 24 01:18:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,129,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1343.00,$ 343.00,Tue Jun 24 18:03:00 CDT 2014,Wed Jun 25 07:03:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,130,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2400.00,$ 0.00,$ -2400.00,Wed Jun 25 18:14:00 CDT 2014,Thu Jun 26 09:14:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,131,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 300.00,$ -1700.00,Thu Jun 26 17:43:00 CDT 2014,Fri Jun 27 07:43:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,132,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 5737.00,$ 4237.00,Fri Jun 27 17:37:00 CDT 2014,Fri Jun 27 21:37:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,133,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1867.00,$ 367.00,Mon Jul 21 17:16:00 CDT 2014,Tue Jul 22 01:16:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,134,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3578.00,$ 2078.00,Tue Jul 22 17:33:00 CDT 2014,Tue Jul 22 22:33:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,135,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3018.00,$ 1518.00,Wed Jul 23 18:00:00 CDT 2014,Wed Jul 23 22:20:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,136,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1800.00,$ 300.00,Thu Jul 24 16:16:00 CDT 2014,Thu Jul 24 18:16:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,137,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1823.00,$ 323.00,Thu Jul 24 21:57:00 CDT 2014,Fri Jul 25 01:57:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,138,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1461.00,$ -39.00,Mon Aug 11 22:34:00 CDT 2014,Tue Aug 12 03:34:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,139,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 1477.00,$ -523.00,Tue Aug 12 17:08:00 CDT 2014,Wed Aug 13 07:08:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,140,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1982.00,$ 482.00,Wed Aug 13 20:53:00 CDT 2014,Thu Aug 14 05:53:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,141,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3050.00,$ 50.00,Thu Aug 14 19:13:00 CDT 2014,Fri Aug 15 04:13:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,142,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2051.00,$ 551.00,Mon Aug 18 21:27:00 CDT 2014,Tue Aug 19 06:27:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,143,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2677.00,$ 1177.00,Tue Aug 19 19:20:00 CDT 2014,Tue Aug 19 20:19:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,144,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3531.00,$ 2031.00,Wed Aug 20 17:34:00 CDT 2014,Wed Aug 20 23:34:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,145,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1994.00,$ 494.00,Thu Aug 21 18:33:00 CDT 2014,Fri Aug 22 01:33:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,146,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 4552.00,$ 1552.00,Sun Aug 24 19:10:00 CDT 2014,Mon Aug 25 07:10:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,147,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1000.00,$ -500.00,Mon Aug 25 17:56:00 CDT 2014,Tue Aug 26 08:56:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,148,Limit Holdem,20/40,none
+Omaha 8,$ 2000.00,$ 2777.00,$ 777.00,Tue Sep 09 16:32:00 CDT 2014,Tue Sep 09 21:32:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,149,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1441.00,$ 441.00,Wed Sep 10 17:22:00 CDT 2014,Thu Sep 11 03:22:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,150,Limit Holdem,20/40,none
+Omaha 8,$ 1500.00,$ 1885.00,$ 385.00,Thu Sep 11 17:42:00 CDT 2014,Thu Sep 11 22:42:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,151,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1885.00,$ 2034.00,$ 149.00,Fri Sep 12 01:02:00 CDT 2014,Fri Sep 12 03:02:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,152,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3500.00,$ 2450.00,$ -1050.00,Fri Sep 12 20:35:00 CDT 2014,Sat Sep 13 15:35:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,153,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3500.00,$ 4008.00,$ 508.00,Sun Sep 14 02:14:00 CDT 2014,Sun Sep 14 08:15:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,154,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2460.00,$ 960.00,Sun Sep 14 21:57:00 CDT 2014,Mon Sep 15 00:57:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,155,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2075.00,$ 575.00,Mon Sep 15 19:35:00 CDT 2014,Tue Sep 16 00:35:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,156,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2151.00,$ 651.00,Tue Sep 16 18:02:00 CDT 2014,Wed Sep 17 00:02:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,157,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1679.00,$ 679.00,Wed Sep 17 17:05:00 CDT 2014,Thu Sep 18 01:05:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,158,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 500.00,$ -2500.00,Thu Sep 18 17:19:00 CDT 2014,Fri Sep 19 06:19:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,159,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2555.00,$ 1055.00,Tue Sep 23 20:30:00 CDT 2014,Wed Sep 24 01:00:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,160,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 620.00,$ -380.00,Wed Sep 24 21:31:00 CDT 2014,Thu Sep 25 03:31:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,161,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2500.00,$ 808.00,$ -1692.00,Thu Sep 25 17:31:00 CDT 2014,Fri Sep 26 08:31:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,162,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3215.00,$ 1215.00,Fri Sep 26 21:04:00 CDT 2014,Sat Sep 27 08:03:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,163,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2500.00,$ 6076.00,$ 3576.00,Sat Sep 27 19:33:00 CDT 2014,Sun Sep 28 16:33:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,164,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 1174.00,$ 174.00,Mon Sep 29 03:35:00 CDT 2014,Mon Sep 29 07:35:00 CDT 2014,Venetian,-,cashgame,15 30,-,-,,165,Omaha 8,15/30,none
+Bellagio 20 40,$ 1500.00,$ 3400.00,$ 1900.00,Tue Sep 30 17:37:00 CDT 2014,Tue Sep 30 23:37:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,166,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1934.00,$ 934.00,Wed Oct 01 14:11:00 CDT 2014,Wed Oct 01 15:11:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,167,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 936.00,$ -564.00,Tue Oct 14 00:01:00 CDT 2014,Tue Oct 14 04:01:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,168,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 2126.00,$ -874.00,Tue Oct 14 18:14:00 CDT 2014,Wed Oct 15 06:14:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,169,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2516.00,$ 1016.00,Wed Oct 15 21:28:00 CDT 2014,Thu Oct 16 04:28:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,170,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2118.00,$ 618.00,Thu Oct 16 17:03:00 CDT 2014,Fri Oct 17 03:03:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,171,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1713.00,$ 213.00,Fri Oct 17 14:08:00 CDT 2014,Fri Oct 17 15:08:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,172,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 743.00,$ -757.00,Mon Oct 20 17:30:00 CDT 2014,Tue Oct 21 05:11:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,173,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3278.00,$ 1778.00,Tue Oct 21 17:36:00 CDT 2014,Wed Oct 22 01:36:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,174,Limit Holdem,20/40,none
+Bellagio 20 40,$ 4000.00,$ 667.00,$ -3333.00,Wed Oct 22 15:46:00 CDT 2014,Thu Oct 23 06:46:00 CDT 2014,Bellagio,-,cashgame,20/40,-,-,,175,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 4019.00,$ 2519.00,Mon Nov 10 18:31:00 CST 2014,Mon Nov 10 22:30:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,176,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 1766.00,$ -1234.00,Tue Nov 11 18:04:00 CST 2014,Wed Nov 12 05:04:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,177,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2900.00,$ 600.00,$ -2300.00,Wed Nov 12 18:15:00 CST 2014,Thu Nov 13 07:15:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,178,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2002.00,$ 502.00,Thu Nov 13 18:53:00 CST 2014,Fri Nov 14 04:53:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,179,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2900.00,$ 0.00,$ -2900.00,Mon Nov 17 16:16:00 CST 2014,Tue Nov 18 07:16:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,180,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2114.00,$ 1114.00,Tue Nov 18 17:03:00 CST 2014,Wed Nov 19 03:03:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,181,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3100.00,$ 1660.00,$ -1440.00,Wed Nov 19 18:34:00 CST 2014,Thu Nov 20 06:34:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,182,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2672.00,$ 1672.00,Thu Nov 20 17:56:00 CST 2014,Fri Nov 21 01:56:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,183,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2270.00,$ 770.00,Fri Nov 21 17:25:00 CST 2014,Fri Nov 21 21:25:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,184,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1797.00,$ 297.00,Sat Nov 22 02:30:00 CST 2014,Sat Nov 22 04:50:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,185,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1626.00,$ 626.00,Sat Nov 22 18:46:00 CST 2014,Sun Nov 23 06:46:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,186,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1900.00,$ 2270.00,$ 370.00,Sun Nov 23 18:34:00 CST 2014,Mon Nov 24 05:34:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,187,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3210.00,$ 210.00,Tue Nov 25 07:14:00 CST 2014,Tue Nov 25 08:14:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,188,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2500.00,$ 2691.00,$ 191.00,Mon Dec 08 18:31:00 CST 2014,Tue Dec 09 04:31:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,189,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 4428.00,$ 2928.00,Tue Dec 09 18:38:00 CST 2014,Tue Dec 09 23:38:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,190,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3778.00,$ 1778.00,Wed Dec 10 19:23:00 CST 2014,Thu Dec 11 00:23:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,191,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3096.00,$ 1596.00,Thu Dec 11 19:07:00 CST 2014,Fri Dec 12 04:07:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,192,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1219.00,$ -281.00,Fri Dec 12 18:16:00 CST 2014,Fri Dec 12 23:16:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,193,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3673.00,$ 673.00,Sun Dec 14 17:19:00 CST 2014,Mon Dec 15 07:19:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,194,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3086.00,$ 1586.00,Sun Dec 14 21:15:00 CST 2014,Mon Dec 15 04:15:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,195,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 948.00,$ -1052.00,Mon Dec 15 23:41:00 CST 2014,Tue Dec 16 04:41:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,196,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 0.00,$ -2000.00,Wed Dec 17 01:44:00 CST 2014,Wed Dec 17 06:44:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,197,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2271.00,$ 771.00,Sat Dec 27 00:30:00 CST 2014,Sat Dec 27 04:30:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,198,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 2047.00,$ -953.00,Sun Dec 28 00:38:00 CST 2014,Sun Dec 28 10:38:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,199,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3308.00,$ 1808.00,Sun Dec 28 20:04:00 CST 2014,Mon Dec 29 03:04:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,200,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2412.00,$ 912.00,Mon Dec 29 19:10:00 CST 2014,Mon Dec 29 21:10:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,201,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2038.00,$ 1038.00,Tue Dec 30 19:57:00 CST 2014,Wed Dec 31 03:56:00 CST 2014,Bellagio,-,cashgame,20/40,-,-,,202,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1219.00,$ 219.00,Mon Jan 05 01:40:00 CST 2015,Mon Jan 05 04:50:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,203,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2200.00,$ 3326.00,$ 1126.00,Mon Jan 05 19:32:00 CST 2015,Tue Jan 06 01:31:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,204,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 1460.00,$ -1540.00,Tue Jan 06 17:07:00 CST 2015,Wed Jan 07 05:07:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,205,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2297.00,$ 797.00,Wed Jan 07 17:20:00 CST 2015,Thu Jan 08 06:20:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,206,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2908.00,$ 1408.00,Mon Jan 19 15:36:00 CST 2015,Mon Jan 19 21:36:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,207,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2428.00,$ 928.00,Tue Jan 20 18:30:00 CST 2015,Wed Jan 21 02:05:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,208,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1767.00,$ 267.00,Wed Jan 21 17:30:00 CST 2015,Wed Jan 21 22:30:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,209,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2435.00,$ 935.00,Thu Jan 22 17:20:00 CST 2015,Fri Jan 23 01:50:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,210,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2447.00,$ 947.00,Fri Jan 23 19:37:00 CST 2015,Sat Jan 24 05:37:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,211,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2800.00,$ 3412.00,$ 612.00,Sat Jan 24 18:00:00 CST 2015,Sun Jan 25 06:00:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,212,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2643.00,$ 1143.00,Sun Jan 25 16:00:00 CST 2015,Sun Jan 25 23:30:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,213,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 5187.00,$ 3687.00,Mon Jan 26 16:24:00 CST 2015,Tue Jan 27 00:24:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,214,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2965.00,$ 1465.00,Tue Jan 27 18:38:00 CST 2015,Wed Jan 28 02:38:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,215,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 2287.00,$ -713.00,Wed Feb 18 17:30:00 CST 2015,Thu Feb 19 05:11:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,216,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 600.00,$ -2400.00,Thu Feb 19 17:31:00 CST 2015,Fri Feb 20 11:31:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,217,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1740.00,$ 240.00,Fri Feb 20 20:07:00 CST 2015,Sat Feb 21 08:07:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,218,Limit Holdem,20/40,none
+Bellagio 20 40,$ 4500.00,$ 0.00,$ -4500.00,Sat Feb 21 15:35:00 CST 2015,Sun Feb 22 03:35:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,219,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3500.00,$ 1500.00,Mon Feb 23 01:34:00 CST 2015,Mon Feb 23 06:34:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,220,Limit Holdem,20/40,none
+Belagio  40 80,$ 2500.00,$ 4800.00,$ 2300.00,Mon Feb 23 20:36:00 CST 2015,Mon Feb 23 22:36:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,221,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1050.00,$ 1150.00,$ 100.00,Tue Feb 24 00:03:00 CST 2015,Tue Feb 24 01:03:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,222,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1525.00,$ 525.00,Tue Feb 24 17:39:00 CST 2015,Tue Feb 24 20:00:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,223,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1664.00,$ 664.00,Tue Feb 24 23:15:00 CST 2015,Wed Feb 25 01:25:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,224,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2488.00,$ 988.00,Wed Feb 25 18:04:00 CST 2015,Thu Feb 26 04:04:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,225,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 2372.00,$ 372.00,Thu Feb 26 19:26:00 CST 2015,Fri Feb 27 04:26:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,226,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2141.00,$ 641.00,Tue Mar 03 01:03:00 CST 2015,Tue Mar 03 02:03:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,227,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1450.00,$ -50.00,Tue Mar 03 19:38:00 CST 2015,Wed Mar 04 04:38:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,228,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3016.00,$ 1016.00,Wed Mar 04 17:56:00 CST 2015,Thu Mar 05 03:56:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,229,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1600.00,$ 1865.00,$ 265.00,Mon Mar 16 01:04:00 CDT 2015,Mon Mar 16 02:04:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,230,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1900.00,$ 900.00,Mon Mar 16 20:56:00 CDT 2015,Tue Mar 17 01:56:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,231,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 2082.00,$ -918.00,Tue Mar 17 19:39:00 CDT 2015,Wed Mar 18 06:39:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,232,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1707.00,$ 207.00,Wed Mar 18 23:26:00 CDT 2015,Thu Mar 19 04:26:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,233,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3218.00,$ 1218.00,Thu Mar 19 19:29:00 CDT 2015,Fri Mar 20 07:29:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,234,Limit Holdem,20/40,none
+Belagio  40 80,$ 3000.00,$ 2524.00,$ -476.00,Fri Mar 20 20:15:00 CDT 2015,Fri Mar 20 21:16:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,235,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1530.00,$ 30.00,Fri Mar 20 21:18:00 CDT 2015,Fri Mar 20 23:08:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,236,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3072.00,$ 1572.00,Sat Mar 21 03:28:00 CDT 2015,Sat Mar 21 05:58:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,237,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3111.00,$ 1611.00,Sat Mar 21 18:24:00 CDT 2015,Sun Mar 22 03:24:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,238,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2515.00,$ 1015.00,Sun Mar 22 19:38:00 CDT 2015,Mon Mar 23 03:38:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,239,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3271.00,$ 1771.00,Mon Mar 23 18:00:00 CDT 2015,Mon Mar 23 21:19:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,240,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1543.00,$ 43.00,Tue Mar 24 00:26:00 CDT 2015,Tue Mar 24 00:43:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,241,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 776.00,$ -724.00,Tue Mar 24 17:01:00 CDT 2015,Tue Mar 24 21:01:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,242,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2500.00,$ 1360.00,$ -1140.00,Wed Mar 25 01:30:00 CDT 2015,Wed Mar 25 08:30:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,243,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3859.00,$ 859.00,Wed Apr 01 16:29:00 CDT 2015,Wed Apr 01 22:29:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,244,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2475.00,$ 975.00,Thu Apr 02 18:30:00 CDT 2015,Thu Apr 02 22:35:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,245,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2571.00,$ 1071.00,Mon Apr 06 22:31:00 CDT 2015,Mon Apr 06 23:31:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,246,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3142.00,$ 142.00,Tue Apr 07 18:30:00 CDT 2015,Wed Apr 08 05:30:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,247,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2500.00,$ 1439.00,$ -1061.00,Wed Apr 08 18:37:00 CDT 2015,Thu Apr 09 06:37:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,248,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3537.00,$ 537.00,Mon Apr 13 19:04:00 CDT 2015,Tue Apr 14 05:04:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,249,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3300.00,$ 3450.00,$ 150.00,Tue Apr 14 19:45:00 CDT 2015,Wed Apr 15 06:45:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,250,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2600.00,$ 900.00,$ -1700.00,Mon May 04 00:56:00 CDT 2015,Mon May 04 06:56:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,251,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3800.00,$ 2205.00,$ -1595.00,Mon May 04 18:30:00 CDT 2015,Tue May 05 07:30:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,252,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1240.00,$ 240.00,Wed May 06 00:02:00 CDT 2015,Wed May 06 07:02:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,253,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2400.00,$ 1400.00,$ -1000.00,Wed May 06 23:22:00 CDT 2015,Thu May 07 11:22:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,254,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2642.00,$ 1642.00,Thu May 07 21:06:00 CDT 2015,Thu May 07 22:06:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,255,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1715.00,$ 715.00,Mon May 11 22:58:00 CDT 2015,Tue May 12 00:58:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,256,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1.00,$ -1499.00,Tue May 12 19:09:00 CDT 2015,Wed May 13 08:09:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,257,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2264.00,$ 1264.00,Wed May 13 19:20:00 CDT 2015,Thu May 14 00:20:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,258,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 2888.00,$ 888.00,Thu May 14 17:08:00 CDT 2015,Fri May 15 01:08:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,259,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 3614.00,$ 2614.00,Fri May 15 17:14:00 CDT 2015,Sat May 16 16:14:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,260,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1983.00,$ 483.00,Sat May 16 13:55:00 CDT 2015,Sat May 16 14:55:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,261,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3226.00,$ 226.00,Sat May 16 20:26:00 CDT 2015,Sun May 17 10:26:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,262,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 2153.00,$ -847.00,Sun May 17 20:45:00 CDT 2015,Mon May 18 07:45:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,263,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 3242.00,$ 1242.00,Mon May 18 21:30:00 CDT 2015,Mon May 18 23:50:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,264,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2714.00,$ 1214.00,Tue May 19 16:30:00 CDT 2015,Tue May 19 23:30:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,265,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2900.00,$ 1400.00,Wed May 27 20:57:00 CDT 2015,Wed May 27 22:57:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,266,Limit Holdem,20/40,none
+Omaha 8,$ 1500.00,$ 0.00,$ -1500.00,Thu May 28 23:45:00 CDT 2015,Fri May 29 06:45:00 CDT 2015,Rio,-,cashgame,20/40,-,-,,267,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2040.00,$ 540.00,Sat May 30 02:30:00 CDT 2015,Sat May 30 07:30:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,268,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3081.00,$ 1581.00,Sun May 31 03:02:00 CDT 2015,Sun May 31 07:02:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,269,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2261.00,$ 1261.00,Sun May 31 18:01:00 CDT 2015,Sun May 31 23:01:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,270,Limit Holdem,20/40,none
+Bellagio 20 40,$ 4000.00,$ 0.00,$ -4000.00,Mon Jun 01 21:01:00 CDT 2015,Tue Jun 02 02:01:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,271,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 0.00,$ -1500.00,Tue Jun 02 15:29:00 CDT 2015,Tue Jun 02 17:29:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,272,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3500.00,$ 4734.00,$ 1234.00,Wed Jun 03 20:23:00 CDT 2015,Thu Jun 04 04:23:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,273,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2791.00,$ 1291.00,Thu Jun 04 20:40:00 CDT 2015,Fri Jun 05 03:40:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,274,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 1100.00,$ -900.00,Fri Jun 05 18:11:00 CDT 2015,Fri Jun 05 23:11:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,275,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3355.00,$ 1855.00,Sat Jun 06 02:30:00 CDT 2015,Sat Jun 06 04:00:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,276,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2597.00,$ 1097.00,Sat Jun 06 17:11:00 CDT 2015,Sat Jun 06 20:11:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,277,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2532.00,$ 1032.00,Sun Jun 07 00:30:00 CDT 2015,Sun Jun 07 04:05:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,278,Limit Holdem,20/40,none
+Bellagio 20 40,$ 5000.00,$ 2707.00,$ -2293.00,Mon Jun 08 18:56:00 CDT 2015,Tue Jun 09 07:56:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,279,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3627.00,$ 627.00,Tue Jun 09 19:41:00 CDT 2015,Wed Jun 10 05:40:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,280,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1773.00,$ 273.00,Wed Jun 10 18:45:00 CDT 2015,Wed Jun 10 20:45:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,281,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2530.00,$ 1030.00,Thu Jun 11 01:12:00 CDT 2015,Thu Jun 11 01:59:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,282,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1575.00,$ 575.00,Thu Jun 11 21:18:00 CDT 2015,Fri Jun 12 11:18:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,283,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 0.00,$ -3000.00,Mon Jun 15 18:45:00 CDT 2015,Tue Jun 16 06:45:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,284,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2188.00,$ 1188.00,Tue Jun 16 17:08:00 CDT 2015,Tue Jun 16 23:08:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,285,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 2871.00,$ 871.00,Wed Jun 17 17:58:00 CDT 2015,Thu Jun 18 05:58:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,286,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2047.00,$ 547.00,Thu Jun 18 20:56:00 CDT 2015,Fri Jun 19 07:56:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,287,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 2673.00,$ 673.00,Fri Jun 19 18:30:00 CDT 2015,Fri Jun 19 22:15:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,288,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2455.00,$ 955.00,Sat Jun 20 20:00:00 CDT 2015,Sat Jun 20 22:22:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,289,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2115.00,$ 1115.00,Sun Jun 21 02:05:00 CDT 2015,Sun Jun 21 03:25:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,290,Limit Holdem,20/40,none
+Bellagio 20 40,$ 5000.00,$ 0.00,$ -5000.00,Sun Jun 21 17:29:00 CDT 2015,Mon Jun 22 05:29:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,291,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1649.00,$ 649.00,Mon Jun 22 17:30:00 CDT 2015,Mon Jun 22 20:30:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,292,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 2282.00,$ 282.00,Tue Jun 23 00:00:00 CDT 2015,Tue Jun 23 05:30:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,293,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1169.00,$ -331.00,Tue Jun 23 19:59:00 CDT 2015,Wed Jun 24 00:59:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,294,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2059.00,$ 559.00,Fri Jun 26 02:53:00 CDT 2015,Fri Jun 26 06:53:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,295,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 3202.00,$ 1702.00,Fri Jun 26 19:30:00 CDT 2015,Sat Jun 27 05:30:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,296,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 3926.00,$ 2926.00,Sat Jun 27 20:00:00 CDT 2015,Sun Jun 28 02:00:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,297,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 0.00,$ -3000.00,Mon Jun 29 00:03:00 CDT 2015,Mon Jun 29 07:03:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,298,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 1930.00,$ -1070.00,Tue Jun 30 23:59:00 CDT 2015,Wed Jul 01 13:59:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,299,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 1003.00,$ -497.00,Wed Jul 01 05:55:00 CDT 2015,Wed Jul 01 17:55:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,300,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2029.00,$ 1029.00,Mon Jul 06 01:30:00 CDT 2015,Mon Jul 06 03:00:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,301,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 3260.00,$ 260.00,Tue Jul 07 01:34:00 CDT 2015,Tue Jul 07 13:34:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,302,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3900.00,$ 500.00,$ -3400.00,Thu Jul 09 00:27:00 CDT 2015,Fri Jul 10 03:27:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,303,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 2537.00,$ 537.00,Sat Jul 11 23:09:00 CDT 2015,Sun Jul 12 08:09:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,304,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 1530.00,$ 530.00,Sun Jul 12 22:43:00 CDT 2015,Mon Jul 13 01:20:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,305,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1530.00,$ 2077.00,$ 547.00,Mon Jul 13 01:44:00 CDT 2015,Mon Jul 13 03:01:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,306,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1200.00,$ 200.00,Mon Jul 13 16:36:00 CDT 2015,Mon Jul 13 17:29:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,307,Limit Holdem,20/40,none
+Omaha 8,$ 1200.00,$ 1739.00,$ 539.00,Mon Jul 13 17:48:00 CDT 2015,Mon Jul 13 21:00:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,308,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2500.00,$ 1131.00,$ -1369.00,Tue Jul 14 13:13:00 CDT 2015,Tue Jul 14 18:13:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,309,Limit Holdem,20/40,none
+Omaha 8,$ 2000.00,$ 1365.00,$ -635.00,Sun Aug 09 18:23:00 CDT 2015,Mon Aug 10 03:23:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,310,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1700.00,$ 1815.00,$ 115.00,Mon Aug 10 17:36:00 CDT 2015,Tue Aug 11 02:36:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,311,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2700.00,$ 1700.00,Tue Aug 11 17:59:00 CDT 2015,Tue Aug 11 20:59:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,312,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1709.00,$ 709.00,Wed Aug 12 19:26:00 CDT 2015,Wed Aug 12 21:26:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,313,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3500.00,$ 1855.00,$ -1645.00,Mon Aug 17 18:33:00 CDT 2015,Tue Aug 18 10:33:00 CDT 2015,Bellagio,-,cashgame,20/40,-,-,,314,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 1500.00,$ -1500.00,Wed Dec 16 16:45:00 CST 2015,Thu Dec 17 04:45:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,315,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2100.00,$ 1100.00,Thu Dec 17 17:47:00 CST 2015,Fri Dec 18 13:47:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,316,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 4506.00,$ 3506.00,Sat Dec 19 00:48:00 CST 2015,Sat Dec 19 07:00:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,317,Limit Holdem,20/40,none
+Omaha 8,$ 4000.00,$ 2121.00,$ -1879.00,Sat Dec 19 17:36:00 CST 2015,Sun Dec 20 07:36:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,318,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2930.00,$ 1930.00,Sun Dec 20 16:52:00 CST 2015,Mon Dec 21 00:52:00 CST 2015,Bellagio,-,cashgame,20/40,-,-,,319,Limit Holdem,20/40,none
+bossier 20 40,$ 1000.00,$ 1515.00,$ 515.00,Thu Jan 07 20:41:00 CST 2016,Fri Jan 08 00:41:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,320,Limit Holdem,20/40,none
+bossier 20 40,$ 1000.00,$ 2197.00,$ 1197.00,Fri Jan 08 10:31:00 CST 2016,Fri Jan 08 22:31:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,321,Limit Holdem,20/40,none
+bossier 20 40,$ 1000.00,$ 1260.00,$ 260.00,Sat Jan 09 10:20:00 CST 2016,Sat Jan 09 11:20:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,322,Limit Holdem,20/40,none
+bossier city 1 3,$ 1060.00,$ 1338.00,$ 278.00,Sat Jan 09 13:48:00 CST 2016,Sun Jan 10 07:30:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,1 3,-,-,,323,No-Limit Holdem,1/3,none
+bossier city 1 3,$ 1800.00,$ 693.00,$ -1107.00,Sun Jan 10 12:33:00 CST 2016,Sun Jan 10 23:33:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,1 3,-,-,,324,No-Limit Holdem,1/3,none
+bossier 20 40,$ 2000.00,$ 3096.00,$ 1096.00,Thu Jan 21 13:30:00 CST 2016,Fri Jan 22 01:30:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,325,Limit Holdem,20/40,none
+bossier 20 40,$ 1000.00,$ 1625.00,$ 625.00,Fri Jan 22 10:37:00 CST 2016,Fri Jan 22 14:37:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,326,Limit Holdem,20/40,none
+Omaha,$ 1800.00,$ 3505.00,$ 1705.00,Fri Jan 22 15:23:00 CST 2016,Sat Jan 23 03:23:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,2 5,-,-,,327,Omaha,2/5,none
+bossier city 1 3,$ 400.00,$ 747.00,$ 347.00,Thu Jan 28 19:19:00 CST 2016,Thu Jan 28 23:19:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,1 3,-,-,,328,No-Limit Holdem,1/3,none
+bossier 20 40,$ 2000.00,$ 600.00,$ -1400.00,Fri Jan 29 11:24:00 CST 2016,Fri Jan 29 23:24:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,329,Limit Holdem,20/40,none
+bossier city 1 3,$ 500.00,$ 633.00,$ 133.00,Thu Feb 04 12:20:00 CST 2016,Thu Feb 04 13:10:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,1 3,-,-,,330,No-Limit Holdem,1/3,none
+bossier 20 40,$ 633.00,$ 2893.00,$ 2260.00,Thu Feb 04 14:02:00 CST 2016,Thu Feb 04 23:02:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,331,Limit Holdem,20/40,none
+bossier 20 40,$ 1000.00,$ 2513.00,$ 1513.00,Fri Feb 05 10:11:00 CST 2016,Sat Feb 06 01:11:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,332,Limit Holdem,20/40,none
+El Dorado 5 10 full kill o8,$ 400.00,$ 780.00,$ 380.00,Sat Feb 06 14:45:00 CST 2016,Sat Feb 06 17:25:00 CST 2016,El Dorado,-,cashgame,5 10.  full kill,-,-,,333,Omaha 8,5/10,full-kill
+Omaha,$ 1500.00,$ 464.00,$ -1036.00,Sat Feb 06 19:52:00 CST 2016,Sun Feb 07 01:52:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,2 5,-,-,,334,Omaha,2/5,none
+bossier 20 40,$ 1000.00,$ 2281.00,$ 1281.00,Thu Feb 11 19:11:00 CST 2016,Fri Feb 12 07:11:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,335,Limit Holdem,20/40,none
+bossier 20 40,$ 2000.00,$ 602.00,$ -1398.00,Fri Feb 12 11:09:00 CST 2016,Fri Feb 12 17:09:00 CST 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,336,Limit Holdem,20/40,none
+30 60 half kill,$ 2000.00,$ 5422.00,$ 3422.00,Wed Feb 17 21:05:00 CST 2016,Thu Feb 18 03:05:00 CST 2016,Blackhawk,-,cashgame,30 60,-,-,,337,Limit Holdem,30/60,half-kill
+Bellagio 20 40,$ 1000.00,$ 265.00,$ -735.00,Thu Feb 25 01:34:00 CST 2016,Thu Feb 25 07:05:00 CST 2016,Bellagio,-,cashgame,20/40,-,-,,338,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 2857.00,$ 1357.00,Thu Feb 25 16:03:00 CST 2016,Thu Feb 25 21:03:00 CST 2016,Bellagio,-,cashgame,20/40,-,-,,339,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 150.00,$ -850.00,Fri Feb 26 14:28:00 CST 2016,Sun Feb 28 00:28:00 CST 2016,Bellagio,-,cashgame,20/40,-,-,,340,Limit Holdem,20/40,none
+Omaha 8,$ 4400.00,$ 0.00,$ -4400.00,Sun Feb 28 13:48:00 CST 2016,Mon Feb 29 04:48:00 CST 2016,Bellagio,-,cashgame,20/40,-,-,,341,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1500.00,$ 4620.00,$ 3120.00,Mon Feb 29 15:31:00 CST 2016,Tue Mar 01 00:31:00 CST 2016,Bellagio,-,cashgame,20/40,-,-,,342,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1698.00,$ 698.00,Thu Apr 14 00:44:00 CDT 2016,Thu Apr 14 04:44:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,343,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 1566.00,$ 566.00,Thu Apr 14 17:00:00 CDT 2016,Thu Apr 14 19:15:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,344,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1900.00,$ 2900.00,$ 1000.00,Fri Apr 15 16:21:00 CDT 2016,Fri Apr 15 22:21:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,345,Limit Holdem,20/40,none
+Bellagio 20 40,$ 4000.00,$ 4065.00,$ 65.00,Sat Apr 16 02:39:00 CDT 2016,Sat Apr 16 11:39:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,346,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 3934.00,$ 2934.00,Sat Apr 16 20:05:00 CDT 2016,Sun Apr 17 07:05:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,347,Limit Holdem,20/40,none
+Commerce 20 40,$ 1000.00,$ 5017.00,$ 4017.00,Fri Apr 22 14:08:00 CDT 2016,Fri Apr 22 21:08:00 CDT 2016,Commerce ,-,cashgame,20/40,-,-,,348,Limit Holdem,20/40,none
+Commerce 20 40,$ 5000.00,$ 1536.00,$ -3464.00,Sat Apr 23 19:40:00 CDT 2016,Sun Apr 24 19:40:00 CDT 2016,Commerce ,-,cashgame,20/40,-,-,,349,Limit Holdem,20/40,none
+Omaha,$ 3000.00,$ 860.00,$ -2140.00,Sat Apr 30 19:38:00 CDT 2016,Sun May 01 05:38:00 CDT 2016,Lake Charles,-,cashgame,2 5 10,-,-,,350,Omaha,2/5/10,none
+Omaha 8,$ 3500.00,$ 2828.00,$ -672.00,Fri May 06 01:35:00 CDT 2016,Fri May 06 10:35:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,351,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2254.00,$ 1254.00,Fri May 06 18:01:00 CDT 2016,Fri May 06 22:01:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,352,Limit Holdem,20/40,none
+Belagio  40 80,$ 4000.00,$ 100.00,$ -3900.00,Sat May 07 12:15:00 CDT 2016,Sat May 07 22:15:00 CDT 2016,Bellagio,-,cashgame,40 80,-,-,,353,Limit Holdem,40/80,none
+Bellagio 20 40,$ 1100.00,$ 2100.00,$ 1000.00,Sun May 08 00:16:00 CDT 2016,Sun May 08 11:16:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,354,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1786.00,$ 786.00,Sun May 08 16:01:00 CDT 2016,Mon May 09 00:01:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,355,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 1505.00,$ 505.00,Mon May 09 03:05:00 CDT 2016,Mon May 09 04:05:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,356,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 1200.00,$ 200.00,Mon May 09 13:07:00 CDT 2016,Mon May 09 14:07:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,357,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1200.00,$ 1469.00,$ 269.00,Mon May 09 14:30:00 CDT 2016,Mon May 09 14:51:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,358,Limit Holdem,20/40,none
+Omaha 8,$ 1469.00,$ 1600.00,$ 131.00,Mon May 09 15:04:00 CDT 2016,Mon May 09 17:20:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,359,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1600.00,$ 1601.00,$ 1.00,Mon May 09 17:30:00 CDT 2016,Mon May 09 19:30:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,360,Limit Holdem,20/40,none
+bossier 20 40,$ 2000.00,$ 2100.00,$ 100.00,Thu May 19 21:17:00 CDT 2016,Fri May 20 02:00:00 CDT 2016,"Horseshoe, Bossier City",-,cashgame,20/40,-,-,,361,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 2551.00,$ 1551.00,Tue May 31 19:13:00 CDT 2016,Wed Jun 01 02:15:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,362,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 2290.00,$ 290.00,Wed Jun 01 18:48:00 CDT 2016,Thu Jun 02 02:48:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,363,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2000.00,$ 2450.00,$ 450.00,Thu Jun 02 18:24:00 CDT 2016,Fri Jun 03 08:24:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,364,Limit Holdem,20/40,none
+Bellagio 20 40,$ 3000.00,$ 1000.00,$ -2000.00,Fri Jun 03 23:02:00 CDT 2016,Sat Jun 04 11:02:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,365,Limit Holdem,20/40,none
+Omaha 8,$ 1000.00,$ 2100.00,$ 1100.00,Wed Jun 29 20:55:00 CDT 2016,Thu Jun 30 00:55:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,366,Limit Holdem,20/40,none
+Bellagio 20 40,$ 2100.00,$ 2323.00,$ 223.00,Thu Jun 30 01:00:00 CDT 2016,Thu Jun 30 01:30:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,367,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1800.00,$ 800.00,Thu Jun 30 20:00:00 CDT 2016,Fri Jul 01 00:00:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,368,Limit Holdem,20/40,none
+Omaha 8,$ 1800.00,$ 1553.00,$ -247.00,Fri Jul 01 01:38:00 CDT 2016,Fri Jul 01 04:38:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,369,Limit Holdem,20/40,none
+Commerce 20 40,$ 1000.00,$ 1819.00,$ 819.00,Sat Jul 02 00:21:00 CDT 2016,Sat Jul 02 02:21:00 CDT 2016,Commerce ,-,cashgame,20/40,-,-,,370,Limit Holdem,20/40,none
+Commerce 20 40,$ 2400.00,$ 0.00,$ -2400.00,Sat Jul 02 23:31:00 CDT 2016,Sun Jul 03 07:32:00 CDT 2016,Commerce ,-,cashgame,20/40,-,-,,371,Limit Holdem,20/40,none
+Commerce 20 40,$ 1000.00,$ 2208.00,$ 1208.00,Sun Jul 03 08:37:00 CDT 2016,Tue Jul 05 01:37:00 CDT 2016,Commerce ,-,cashgame,20/40,-,-,,372,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 3056.00,$ 2056.00,Mon Jul 04 06:02:00 CDT 2016,Mon Jul 04 09:02:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,373,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1000.00,$ 1055.00,$ 55.00,Mon Jul 04 18:20:00 CDT 2016,Mon Jul 04 18:55:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,374,Limit Holdem,20/40,none
+Bellagio 20 40,$ 1055.00,$ 255.00,$ -800.00,Mon Jul 04 19:02:00 CDT 2016,Mon Jul 04 20:02:00 CDT 2016,Bellagio,-,cashgame,20/40,-,-,,375,Limit Holdem,20/40,none

@@ -19,13 +19,19 @@ ActiveRecord::Schema.define(version: 2018_11_01_233153) do
   end
 
   create_table "game_locations", force: :cascade do |t|
-    t.string "place"
+    t.string "poker_room"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
   create_table "game_names", force: :cascade do |t|
     t.string "game_title"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "kill_statuses", force: :cascade do |t|
+    t.string "kill"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -47,6 +53,7 @@ ActiveRecord::Schema.define(version: 2018_11_01_233153) do
     t.integer "game_location_id"
     t.integer "game_name_id"
     t.integer "blinds_name_id"
+    t.integer "kill_status_id"
     t.boolean "tournament"
     t.string "tournament_placement"
     t.datetime "tournament_date"
@@ -59,6 +66,7 @@ ActiveRecord::Schema.define(version: 2018_11_01_233153) do
     t.index ["blinds_name_id"], name: "index_played_games_on_blinds_name_id"
     t.index ["game_location_id"], name: "index_played_games_on_game_location_id"
     t.index ["game_name_id"], name: "index_played_games_on_game_name_id"
+    t.index ["kill_status_id"], name: "index_played_games_on_kill_status_id"
     t.index ["user_id"], name: "index_played_games_on_user_id"
   end
 
