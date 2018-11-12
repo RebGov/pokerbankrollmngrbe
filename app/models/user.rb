@@ -6,8 +6,8 @@ class User < ApplicationRecord
   validates :first_name, presence: true, length: {minimum: 2}
   validates :last_name, presence: true, length: {minimum: 2}
   validates :password, length: { in: 6..20 }
-
-
+  # scope :played_games
+   # scope :start_date_time, -> { where(start_date_time: 3.years.ago.all_year).order("start_date_time desc") }
 
 
 end

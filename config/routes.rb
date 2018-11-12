@@ -6,6 +6,7 @@ Rails.application.routes.draw do
       resources :users, only: [:create]
         post '/login', to: 'auth#create'
         get '/profile', to: 'users#profile'
+        # get '/:user/played_games/', to: 'users#user_played_games'
       resources :blinds_names
         post '/blinds_name/new', to: 'blinds_names#create'
         get '/blinds_names', to: 'blinds_names#index'
@@ -20,9 +21,10 @@ Rails.application.routes.draw do
         get '/game_names', to: 'game_names#index'
       resources :kill_statuses
         get '/kill_statuses', to: 'kill_statuses#index'
-      resources :played_games
+      # resources :played_games,
         post '/played_game/new', to: 'played_games#create'
-        get '/played_games', to: 'played_games#index'
+        get '/played_games', to: "played_games#index"
+        # get '/played_games/', to: 'played_games#index'
 
     end
   end

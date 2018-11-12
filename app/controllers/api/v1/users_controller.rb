@@ -22,8 +22,13 @@ class Api::V1::UsersController < ApplicationController
   end
 
   def profile
-    render json: current_user, include: { played_games: { include: [ :game_location, :notes, :blinds_name, :game_name, :kill_status ]}}
+    render json: current_user
+    # , include: { played_games: { include: [ :game_location, :notes, :blinds_name, :game_name, :kill_status ]}}
   end
+  # def user_played_games
+  #
+  #   render json: current_user, include: { played_games: { include: [ :game_location, :notes, :blinds_name, :game_name, :kill_status ]}}
+  # end
 
   private
   def user_params
