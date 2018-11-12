@@ -3,6 +3,7 @@ class PlayedGame < ApplicationRecord
   belongs_to :game_location
   belongs_to :game_name
   belongs_to :blinds_name
+  belongs_to :kill_status
   # belongs_to :tournament_name
   has_many :notes
 
@@ -11,10 +12,17 @@ class PlayedGame < ApplicationRecord
   accepts_nested_attributes_for :game_location
   # accepts_nested_attributes_for :touranment_name
 
+  before_validation do |game|
+    game.kill_status_id = game.kill_status_id == 'undefined' ? 1 : game.kill_status_id
+    game.minutes = (game.end_date_time - game.start_date_time) / 60
+    game.profit = game.cash_out - game.buy_in
+    game.won_game = game.cash_out >= game.buy_in ? true : false
+  end
+
+
   validates :buy_in, presence: true
   validates :cash_out, presence: true
   validates :game_name, presence: true
-  validates :won_game, presence: true
   validates :game_location, presence: true
   validates :profit, presence: true
   # validates :note_content, presence: false

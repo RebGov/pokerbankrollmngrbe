@@ -18,7 +18,8 @@ Rails.application.routes.draw do
       resources :game_names
         post '/game_name/new', to: 'game_names#create'
         get '/game_names', to: 'game_names#index'
-
+      resources :kill_statuses
+        get '/kill_statuses', to: 'kill_statuses#index'
       resources :played_games
         post '/played_game/new', to: 'played_games#create'
         get '/played_games', to: 'played_games#index'
