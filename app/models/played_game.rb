@@ -6,6 +6,8 @@ class PlayedGame < ApplicationRecord
   belongs_to :kill_status
   # belongs_to :tournament_name
   has_many :notes
+  # scope :start_date_time, -> started_at, ended_at { where("started_at = 20130801 AND ended_at = 20130131", started_at, ended_at) }
+  # scope :for_user_id, lambda { |user_id:| where(user_id: user_id) }
 
   accepts_nested_attributes_for :game_name
   accepts_nested_attributes_for :blinds_name
@@ -14,6 +16,7 @@ class PlayedGame < ApplicationRecord
 
   before_validation do |game|
     game.kill_status_id = game.kill_status_id == 'undefined' ? 1 : game.kill_status_id
+    # (pokerKillPot)
     game.minutes = (game.end_date_time - game.start_date_time) / 60
     game.profit = game.cash_out - game.buy_in
     game.won_game = game.cash_out >= game.buy_in ? true : false
@@ -39,6 +42,10 @@ class PlayedGame < ApplicationRecord
   # validates_uniqueness_of :tournament_name, :scope => :another_column # allows foreign_id to be nil
   # validates :tournament_name, presence: false, on: :create
   validates :tournament_date, presence: false, on: :create
+
+
+
+
 end
 
 # belongs to both tournaments and cash-games

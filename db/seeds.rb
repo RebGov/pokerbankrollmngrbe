@@ -44,6 +44,7 @@ CSV.foreach("db/pd.csv") do |row|
    cash_out = cash_out[2..cash_out.length]
    location = GameLocation.find_or_create_by(poker_room: room_of_poker_location)
    tournament = tournament_string != "cashgame"
+   # tournament would need to be changed once tounament side of data is turned back on
    game_name = GameName.find_or_create_by(game_title: game_name )
    blinds_name = BlindsName.find_or_create_by(blinds: blinds_name)
    kill_status = KillStatus.find_or_create_by(kill: kill_status)
