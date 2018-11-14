@@ -7,24 +7,25 @@ Rails.application.routes.draw do
         post '/login', to: 'auth#create'
         get '/profile', to: 'users#profile'
         # get '/:user/played_games/', to: 'users#user_played_games'
-      resources :blinds_names
-        post '/blinds_name/new', to: 'blinds_names#create'
-        get '/blinds_names', to: 'blinds_names#index'
-      resources :game_locations
-        post '/game_location/new', to: 'game_locations#create'
-        get '/game_locations', to: 'game_locations#index'
-      resources :notes
-        post '/note/new', to: 'notes#create'
-        get '/notes', to: 'notes#index'
-      resources :game_names
-        post '/game_name/new', to: 'game_names#create'
-        get '/game_names', to: 'game_names#index'
-      resources :kill_statuses
-        get '/kill_statuses', to: 'kill_statuses#index'
-      # resources :played_games,
-        post '/played_game/new', to: 'played_games#create'
-        get '/played_games', to: "played_games#index"
-        # get '/played_games/', to: 'played_games#index'
+      resources :blinds_names, only: [:create, :index]
+        # post '/blinds_names/new', to: 'blinds_names#create'
+        # get '/blinds_names', to: 'blinds_names#index'
+      resources :game_locations, only: [:create, :index]
+        # post '/game_locations/new', to: 'game_locations#create'
+        # get '/game_locations', to: 'game_locations#index'
+      resources :notes, only: [:create, :index]
+        # post '/notes/new', to: 'notes#create'
+        # get '/notes', to: 'notes#index'
+      resources :game_names, only: [:create, :index]
+        # post '/game_names/new', to: 'game_names#create'
+        # get '/game_names', to: 'game_names#index'
+        # get'/game_names/:id', to: 'game_names#show'
+      resources :kill_statuses, only: [:create, :index]
+        # get '/kill_statuses', to: 'kill_statuses#index'
+      resources :played_games, only:[:create, :index, :show]
+        # post '/played_games/new', to: 'played_games#create'
+        # get '/played_games', to: "played_games#index"
+
 
     end
   end
