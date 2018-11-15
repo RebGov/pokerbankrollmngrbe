@@ -16,11 +16,12 @@ class Api::V1::PlayedGamesController < ApplicationController
   end
 
   def index
-   parameter_list=['game_location_id','game_name_id','blinds_name_id','user_id']
+   parameter_list=['game_location_id','game_name_id','blinds_name_id','user_id', 'kill_status_id','start_date','end_date']
    search_str=''
    first=true
    no_search_parms=true
    is_user_id=false
+   puts "MMMMMMMMM"
    params.each do |key,value|
      #Rails.logger.warn "Param #{key}: #{value}"
       if parameter_list.include?(key)
@@ -30,18 +31,44 @@ class Api::V1::PlayedGamesController < ApplicationController
         end
         if first != true
           tmp=" and "
-          tmp.concat("#{key}=#{value}")
+          if key == 'start_date'
+            print "Found start date"
+            tmp.concat('start_date_time>="')
+            tmp.concat("#{value}")
+            tmp.concat('"')
+            fist=false
+          elsif key == 'end_date'
+            tmp.concat('start_date_time<="')
+            tmp.concat("#{value}")
+            tmp.concat('"')
+            first=false
+          else
+            tmp.concat("#{key}=#{value}")
+          end
         else
-          tmp="#{key}=#{value}"
-          first=false
+          if key == 'start_date'
+            tmp.concat('start_date_time>="')
+            tmp.concat("#{value}")
+            tmp.concat('"')
+            first=false
+          elsif key == 'end_date'
+            tmp.concat('start_date_time<="')
+            tmp.concat("#{value}")
+            tmp.concat('"')
+            first=false
+          else
+            tmp="#{key}=#{value}"
+            first=false
+          end
         end
         search_str.concat(tmp)
-      #  puts "TMPSTR is #{tmp_str}"
+        #puts "TMPSTR is #{tmp}"
       end
     end
-
+    puts "TMPSTR #{search_str}"
+    #search_str='user_id=1 and start_date_time >= "2014-08-9"'
     if is_user_id == true
-      playedGames = PlayedGame.where(search_str)
+      playedGames = PlayedGame.where(search_str).order('start_date_time DESC')
     end
 
     if is_user_id == false
@@ -49,13 +76,16 @@ class Api::V1::PlayedGamesController < ApplicationController
     else
       render json: {playedGames: playedGames}, include: [ :game_location, :notes, :blinds_name, :game_name, :kill_status ]
     end
-end
+  end
     # , include: [ :game_location, :notes, :blinds_name, :game_name, :kill_status ]}
     # , include: { played_games: { include: [ :game_location, :notes, :blinds_name, :game_name, :kill_status ]}}
     # .to_date..Date.current
     # playedGames = PlayedGame.where(start_date_time: 4.years.ago.all_year).order("start_date_time desc")
      # playedGames = PlayedGame.where(user_id: 1).where(start_date_time: 3.years.ago.to_date..Date.current)
-
+  def show
+    playedGame = PlayedGame.find(params[:id])
+    render json: {playedGame: playedGame}, include: [ :game_location, :notes, :blinds_name, :game_name, :kill_status ]
+  end
 
   def update
   end
