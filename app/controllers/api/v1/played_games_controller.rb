@@ -32,6 +32,7 @@ class Api::V1::PlayedGamesController < ApplicationController
         if first != true
           tmp=" and "
           if key == 'start_date'
+            
             print "Found start date"
             tmp.concat('start_date_time>="')
             tmp.concat("#{value}")
