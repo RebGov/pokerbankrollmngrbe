@@ -12,6 +12,9 @@
 
 ActiveRecord::Schema.define(version: 2018_11_01_233153) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "blinds_names", force: :cascade do |t|
     t.string "blinds"
     t.datetime "created_at", null: false
@@ -38,22 +41,22 @@ ActiveRecord::Schema.define(version: 2018_11_01_233153) do
 
   create_table "notes", force: :cascade do |t|
     t.string "note"
-    t.integer "played_game_id"
+    t.bigint "played_game_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["played_game_id"], name: "index_notes_on_played_game_id"
   end
 
   create_table "played_games", force: :cascade do |t|
-    t.integer "user_id"
+    t.bigint "user_id"
     t.datetime "start_date_time"
     t.datetime "end_date_time"
     t.decimal "buy_in", precision: 15, scale: 2
     t.decimal "cash_out", precision: 15, scale: 2
-    t.integer "game_location_id"
-    t.integer "game_name_id"
-    t.integer "blinds_name_id"
-    t.integer "kill_status_id"
+    t.bigint "game_location_id"
+    t.bigint "game_name_id"
+    t.bigint "blinds_name_id"
+    t.bigint "kill_status_id"
     t.boolean "tournament"
     t.string "tournament_placement"
     t.datetime "tournament_date"
@@ -81,4 +84,9 @@ ActiveRecord::Schema.define(version: 2018_11_01_233153) do
     t.datetime "updated_at", null: false
   end
 
+  add_foreign_key "played_games", "blinds_names"
+  add_foreign_key "played_games", "game_locations"
+  add_foreign_key "played_games", "game_names"
+  add_foreign_key "played_games", "kill_statuses"
+  add_foreign_key "played_games", "users"
 end

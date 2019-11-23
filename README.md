@@ -21,6 +21,7 @@ Giving the user maximum ability to see statistics of user entry history, SQL que
   - kill-pot status (full/half/none)
   - date game played
 
+
 Calculations completed in Rails before storing a user entry to database are: 
   - total minutes played
   - profit of entry, and 
@@ -32,6 +33,8 @@ Current Deliverables:
 - Creating and persisiting: user entry of game data
 
 Future Deliverables:
+**ToDo** update DB relationships to be configured for each user and not for all users.11/23/2019.
+**ToDo** Time and Date hard coded 30 days fix.
  - Tournament Game Data storage and statistics
  - Ability to store "live" sessions
  - Mobile App

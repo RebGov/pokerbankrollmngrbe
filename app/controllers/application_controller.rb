@@ -2,9 +2,7 @@ class ApplicationController < ActionController::API
   before_action :check_authentication
  #  #takes in a payload and returns an encoded_token
   def encode_token(payload)
-
     JWT.encode(payload, ENV["jwt_secret"])
-
   end
 
   def auth_header

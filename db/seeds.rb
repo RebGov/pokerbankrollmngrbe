@@ -11,9 +11,11 @@ GameName.destroy_all
 KillStatus.destroy_all
 User.destroy_all
 
+
+## want to change relationship between User and GameNameList/gameLocation/blindsNames/Kills so that only a user can pull their own list. update/Create own list.
 #users
 exampleUser = User.create(email: '1@example.com', password: '123456', first_name: 'Example', last_name: 'One', username: '1')
-exampleUsers =User.create([{ email: 'joe@example.com', password: '123456', first_name: 'Joe', last_name: 'Doe', username: 'joe' }, { email: 'jane@example.com', password: '123456', first_name: 'Jane', last_name: 'Doe', username: 'jane' }])
+# exampleUsers =User.create([{ email: 'joe@example.com', password: '123456', first_name: 'Joe', last_name: 'Doe', username: 'joe' }, { email: 'jane@example.com', password: '123456', first_name: 'Jane', last_name: 'Doe', username: 'jane' }])
 
 #gameName
 gameName = GameName.create([{ game_title: 'Omaha 8' }, { game_title: 'Omaha' }, { game_title: 'Limit Holdem' }])
@@ -36,10 +38,10 @@ CSV.foreach("db/pd.csv") do |row|
   if first
    first = false
 
- else
+  else
 
    na, buy_in, cash_out, na, start_date_time, end_date_time, room_of_poker_location, na, tournament_string, na, na, na, na, na, game_name, blinds_name, kill_status = row
-
+   
    buy_in = buy_in[2..buy_in.length]
    cash_out = cash_out[2..cash_out.length]
    location = GameLocation.find_or_create_by(poker_room: room_of_poker_location)
@@ -49,7 +51,6 @@ CSV.foreach("db/pd.csv") do |row|
    blinds_name = BlindsName.find_or_create_by(blinds: blinds_name)
    kill_status = KillStatus.find_or_create_by(kill: kill_status)
    PlayedGame.create(buy_in: buy_in.to_f, cash_out:cash_out.to_f, start_date_time: start_date_time , end_date_time: end_date_time, game_location: location, tournament: tournament, game_name: game_name, blinds_name: blinds_name, kill_status: kill_status, user: exampleUser )
-
  end
 end
 
